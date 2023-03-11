@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nathan Luis Alvares</h1>
+<h1>Hi 👋, I'm Nathan L. Alvares</h1>
 <h3>A passionate self-taught frontend developer and machine learning enthusiast</h3>
 
 ```javascript
