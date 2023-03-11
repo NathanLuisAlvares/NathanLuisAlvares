@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Luis Alvares</h1>
 <h3 align="center">A passionate frontend developer and machine learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanluisalvares&label=Profile%20views&color=ff0000&style=plastic" alt="nathanluisalvares" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanluisalvares&label=Profile%20views&color=ff0000&style=plastic" alt="nathanluisalvares" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
