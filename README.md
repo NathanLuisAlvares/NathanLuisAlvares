@@ -31,7 +31,8 @@ const nathalvofficial = {
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Nathan L. Alvares"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nathan L. Alvares" /></a><a href="https://ko-fi.com/Nathan L. Alvares"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nathan L. Alvares" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/nathalvofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nathan L. Alvares" /></a>
+<a href="https://ko-fi.com/nathalvofficial"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nathan L. Alvares" /></a></p><br><br>
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanluisalvares&show_icons=true&theme=merko&title_color=ff0000&bg_color=000000&cache_seconds=1800&locale=en&layout=compact" alt="nathanluisalvares" /></p>
