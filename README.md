@@ -6,7 +6,7 @@ const nathalvofficial = {
   code: [Javascript, HTML5, CSS3, Python, C, C++],
   tools: [Vuejs],
   hobbies: ["basketball", "3d modelling", "anime"],
-  learning: ["Flutter", "React", "Tensorflow", "Opencv"]
+  learning: ["React", "Tensorflow", "Opencv", "Blender", "Unity", "Unreal Engine"]
 }
 ```
 
